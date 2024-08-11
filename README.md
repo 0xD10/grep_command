@@ -12,7 +12,7 @@ https://cmake.org/download/
 - Arch linux
   `sudo pacman -S cmake`
 
-After you install cmake then you can run `setup.sh` script and the `grep` executable will be in the directory
+After you install cmake then you can run `setup.sh` script and the `grep` binary will be in the directory
 
 ## Usage
 `./grep [FILENAME] [PATTERN]`
