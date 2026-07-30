@@ -1,4 +1,4 @@
-# grep_command
+# grep_
 A simple program to learn C.
 grep is a command-line that searches for a substring on data/texts.
 
